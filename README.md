@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  check out my portfolio website https://ssachis.github.io/Portfolio-Website/
+- 🌸 check out my portfolio website https://ssachis.github.io/Portfolio-Website/
 
 
 - 🔭 I’m currently working on projects using flutter and/or web dev.
