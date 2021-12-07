@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:https://www.linkedin.com/in/sachi-s-b75419204/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like sketching(^~^)reach my art-ig at @art_byii
--->[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssachis)](https://github.com/anuraghazra/github-readme-stats)
+-->[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssachis)](https://github.com/ssachis/github-readme-stats)
 
