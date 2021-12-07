@@ -9,6 +9,6 @@
 - 📫 How to reach me:https://www.linkedin.com/in/sachi-s-b75419204/
 - 😄 Pronouns: she/her
 -⚡ Fun fact: I reallyy like sketching(^~^)
--& heres my portfolio website https://ssachis.github.io/Portfolio-Website/
+- & heres my portfolio website https://ssachis.github.io/Portfolio-Website/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssachis)](https://github.com/ssachis/github-readme-stats)
 
