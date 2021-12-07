@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  check out my portfolio website! https://ssachis.github.io/Portfolio-Website/
+-  check out my portfolio website https://ssachis.github.io/Portfolio-Website/
 
 
 - 🔭 I’m currently working on projects using flutter and or web dev.
@@ -10,5 +10,5 @@
 - 📫 How to reach me:https://www.linkedin.com/in/sachi-s-b75419204/
 - 😄 Pronouns: she/her
 - 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssachis)](https://github.com/ssachis/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssachis)](https://github.com/ssachis/github-readme-stats&count_private=true&show_icons=true)
 
