@@ -10,5 +10,5 @@
 - 📫 How to reach me:https://www.linkedin.com/in/sachi-s-b75419204/
 - 😄 Pronouns: she/her
 - 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssachis)](https://github.com/ssachis/github-readme-stats&count_private=true&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssachis)](https://github.com/ssachis/github-readme-stats&count_private=true)
 
