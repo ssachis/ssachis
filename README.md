@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning data structures in C++ and machine learning in python.
 - 👯 I’m looking to collaborate in open source projects.
 - 💬 Ask me about C++ ,web dev,flutter.
-- 📫 How to reach me:https://www.linkedin.com/in/sachi-s-b75419204/
+- 📫 How to reach me:https://www.linkedin.com/in/sachi-singh-b75419204/
 - 😄 Pronouns: she/her
 - 🌝 Fun fact - I am also an artist(^~^)
 
