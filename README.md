@@ -19,6 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssachis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=user9780Q" width="400"/>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ssachis)](https://github.com/ryo-ma/github-profile-trophy)
