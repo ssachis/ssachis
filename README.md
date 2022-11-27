@@ -3,7 +3,7 @@
 - 🍃 Check out my portfolio website https://ssachis.github.io/Portfolio-Website/
 
 
-- 🔭 I’m currently working on projects using deeplearning and mashine learning.
+- 🔭 I’m currently working on projects using deep learning and machine learning.
 - 🌱 I’m interested in app development and web development.
 - 👯 I’m looking to collaborate in open source projects.
 - 💬 Ask me about C++,python,ML,flutter.
